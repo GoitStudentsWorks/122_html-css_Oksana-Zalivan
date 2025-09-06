@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/coffeejoy-progect-group-14/",
+    "build": "vite build --base=/122_html-css_Oksana-Zalivan/",
     "preview": "vite preview"
   },
   "devDependencies": {
